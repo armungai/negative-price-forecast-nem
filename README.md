@@ -14,7 +14,7 @@ You need this so Colab can push to GitHub on your behalf.
 ### 2. Save Your Token as a Colab Secret
 
 1. Open any notebook in [Google Colab](https://colab.research.google.com)
-2. Click the **🔑 key icon** in the left sidebar (Secrets)
+2. Click the **key icon** in the left sidebar (Secrets)
 3. Click **Add new secret**
 4. Name: `GITHUB_TOKEN` — Value: paste your token
 5. Toggle **Notebook access** on
@@ -51,7 +51,7 @@ Open or create notebooks in the `notebooks/` folder:
 
 ```python
 # Example: open an existing notebook
-# Just navigate in Colab's file browser (📁 icon) to your-repo-name/notebooks/
+# Just navigate in Colab's file browser (icon) to your-repo-name/notebooks/
 
 # Or create a new one and save it there
 ```
