@@ -9,7 +9,7 @@ Predicting negative wholesale electricity price events in Australia's National E
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/OWNER-USERNAME/negative-price-forecast-nem.git
+git clone https://github.com/armungai/negative-price-forecast-nem.git
 cd negative-price-forecast-nem
 ```
 
@@ -80,9 +80,9 @@ git push
 
 ## Data
 
-The `data/` folder is gitignored — large files don't belong in GitHub.
+The `data/` folder is gitignored 
 
-To share data with the team, we will use a shared Google Drive or OneDrive folder and link to it here:
+To share data with the team, we will use the shared Google Drive folder and link to it here:
 
 **Shared data folder:** need to do this... 
 
@@ -100,7 +100,7 @@ If you need a new package:
 
 ---
 
-## Common Issues
+## Common Issuesi (Add more if you encounter them)
 
 | Problem | Fix |
 |---------|-----|
