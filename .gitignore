@@ -1,0 +1,25 @@
+# Data files
+data/
+*.csv
+*.h5
+*.pkl
+*.parquet
+
+# Python
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Colab
+.config/
+sample_data/
