@@ -84,7 +84,7 @@ The `data/` folder is gitignored
 
 To share data with the team, we will use the shared Google Drive folder and link to it here:
 
-**Shared data folder:** need to do this... 
+**Shared data folder:** we need to do this... 
 
 For small reference files (<1MB), you can remove the gitignore entry and push them directly.
 
